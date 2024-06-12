@@ -1,2 +1,2 @@
-# Frog-Puzzle-Game
-Frog Feed Order Game Clone
+#Puzzle Game
+Frog Game Clone
