@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a141ea72cc9d42beae13ddc83d84e94, type: 3}
+  m_Name: ColorData
+  m_EditorClassIdentifier: 
+  baseMaterial: {fileID: 2100000, guid: 61fff978d057941a691f2b065a2d66c2, type: 2}
+  baseWhiteMaterial: {fileID: 2100000, guid: 7129a44b4af3049369b6298da2269edb, type: 2}
+  blueCellMaterial: {fileID: 2100000, guid: aefdcc275cc0140fc993bdf66ff39e91, type: 2}
+  greenCellMaterial: {fileID: 2100000, guid: 719877fd64a6e4a9d8418ebba392b7a3, type: 2}
+  purpleCellMaterial: {fileID: 2100000, guid: 9691aa487f0404e4a9e9143f42e950e9, type: 2}
+  redCellMaterial: {fileID: 2100000, guid: 27a049bd005c44874bd9b9c85c799767, type: 2}
+  yellowCellMaterial: {fileID: 2100000, guid: e26129faec4054a06b1655a48e5d72d4, type: 2}
+  blueFrogMaterial: {fileID: 2100000, guid: 161d61f33fdd84b49a3df2231f84c0b7, type: 2}
+  greenFrogMaterial: {fileID: 2100000, guid: d3d2fcdea5a6b4dcbba9e7ec550df842, type: 2}
+  purpleFrogMaterial: {fileID: 2100000, guid: fa3b2df0905e74aa6a534a15c4c574bd, type: 2}
+  redFrogMaterial: {fileID: 2100000, guid: 7217227e403eb41e4961c6ce6cf2ca89, type: 2}
+  yellowFrogMaterial: {fileID: 2100000, guid: 209ea378b2a8c4bc59e33b3b24eb4d2b, type: 2}
+  blueBerryMaterial: {fileID: 2100000, guid: 27e52b4049483416ead1d5da543de3b0, type: 2}
+  greenBerryMaterial: {fileID: 2100000, guid: 3dcac89d430e3415089c431b9314b537, type: 2}
+  purpleBerryMaterial: {fileID: 2100000, guid: a164a2f708d4d417c8f6efb2d4de4bb3, type: 2}
+  redBerryMaterial: {fileID: 2100000, guid: cfe49a2341b9740748e74e789ebb238a, type: 2}
+  yellowBerryMaterial: {fileID: 2100000, guid: bad2ad0c9d0ed4f76b08659171fdd036, type: 2}
+  blueArrowColor: {r: 0.1764706, g: 0.7607843, b: 0.9372549, a: 1}
+  greenArrowColor: {r: 0.47843137, g: 0.9411765, b: 0.105882354, a: 1}
+  purpleArrowColor: {r: 0.7176471, g: 0.09019608, b: 0.9411765, a: 1}
+  redArrowColor: {r: 0.99607843, g: 0.17254902, b: 0.047058824, a: 1}
+  yellowArrowColor: {r: 0.9411765, g: 0.9411765, b: 0.09411765, a: 1}
